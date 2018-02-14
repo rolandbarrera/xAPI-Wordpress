@@ -22,4 +22,8 @@ Statement is sent as soon as a logged in user visits a page with the plugin atta
 
 
 
+NOTES:<br>
+This project requires:
+<br>[Tincan.js](https://github.com/RusticiSoftware/TinCanJS)
+<br>[Awesomplete](http://leaverou.github.io/awesomplete)
 
